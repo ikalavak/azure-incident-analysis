@@ -154,7 +154,7 @@ All signals aligned with the deployment timing, confirming that the deployment t
 
 ---
 
-## ✅ Final Summary
+## Final Summary
 
 A single deployment introduced multiple configuration issues across Key Vault, NSG, and TLS.  
 
